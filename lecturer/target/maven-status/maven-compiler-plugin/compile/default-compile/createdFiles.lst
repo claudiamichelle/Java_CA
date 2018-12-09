@@ -1,0 +1,4 @@
+lecturer\model\Student.class
+lecturer\repository\StudentRepository.class
+lecturer\dao\StudentDAO.class
+lecturer\controller\StudentEnrollmentController.class
